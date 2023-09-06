@@ -36,8 +36,8 @@ Follow the on-screen instructions and provide the necessary inputs when prompted
 
 Post successful execution, the script will generate an SSH key. This key needs to be added to your GitHub account or wherever the Gemini_Cluster private repo resides.
 
-    Go to GitHub -> Settings -> SSH and GPG keys -> New SSH Key.
-    Copy the content from ~/.ssh/id_rsa.pub and paste it there.
+- Go to GitHub -> Settings -> SSH and GPG keys -> New SSH Key.
+- Copy the content from ~/.ssh/id_rsa.pub and paste it there.
 
 ### 4. Accessing Gemini_Cluster
 
