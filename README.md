@@ -46,7 +46,8 @@ You should now be able to seamlessly clone and interact with the Gemini_Cluster 
 ### 5. Additional Tools
 
 If you've chosen Barrier or ThinLinc installations during the setup, please refer to their official documentation for advanced configurations and usage guidelines.
-Caution
+
+### Caution
 
 Always ensure the scripts and software you're running are from trusted sources, especially when administrative permissions are involved.
 
