@@ -52,4 +52,5 @@ cat ~/.ssh/id_rsa.pub
 read -p "Press enter once you've added the key to GitHub."
 
 # Clone the Private Repo
+cd ~
 git clone git@github.com:$github_username/Gemini_Cluster.git
